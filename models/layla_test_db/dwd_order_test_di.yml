@@ -1,0 +1,14 @@
+models:
+  - name: dwd_order_sum_di
+    description: test
+    meta:
+      owner: "layla.ye"
+      email: "layla.ye@klook.com"
+    columns:
+      - name: order_id
+        description: PK
+        tests:
+          - unique
+          - not_null
+      - name: order_date
+        description: Date (UTC) of a customer's order
