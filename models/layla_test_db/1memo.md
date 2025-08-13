@@ -1,16 +1,3 @@
-PATH=/Users/layla.ye/dbt-env/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/usr/local/corplink/mdm/opt/corplink-mdm/bin
-PS1=(dbt-env) %n@%m %1~ %# 
-DBT_PROFILES_DIR=/Users/layla.ye/.dbt_learn_env
-VIRTUAL_ENV=/Users/layla.ye/dbt-env
-(dbt-env) layla.ye@laylayedeMacBook-Air ~ % nano /Users/layla.ye/dbt-env/bin/activate
-(dbt-env) layla.ye@laylayedeMacBook-Air ~ % deactivate
-layla.ye@laylayedeMacBook-Air ~ % source /Users/layla.ye/dbt-env/bin/activate
-(dbt-env) layla.ye@laylayedeMacBook-Air ~ % env | grep -i dbt
-PATH=/Users/layla.ye/dbt-env/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/usr/local/corplink/mdm/opt/corplink-mdm/bin
-PS1=(dbt-env) %n@%m %1~ %# 
-DBT_PROFILES_DIR=/Users/layla.ye/.dbt_learn_env
-VIRTUAL_ENV=/Users/layla.ye/dbt-env
-
 
 
 d environment variables
